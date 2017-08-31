@@ -7,5 +7,5 @@ ViRTi - AWS CloudFormation Templates
 
 <img src="https://www.pivotaltracker.com/images/v7/logos/logo_main.png" width="120">
 
-- **Project - Ansible Roles:** https://www.pivotaltracker.com/n/projects/2082647
+- **Project:** https://www.pivotaltracker.com/n/projects/2082647
 
