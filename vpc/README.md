@@ -34,8 +34,6 @@ Infa
                 </tr>
                 <tr>
                     <td>
-                        <a href="https://console.aws.amazon.com/cloudformation/home?region=us-west-2#/stacks/new?&templateURL=https://s3.us-east-2.amazonaws.com/petersonwsantos/cloudformation/vpc/vpc.yml" target="_blank"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"></a>
-                        <p>us-west-2</p>
                         <a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?&templateURL=https://s3.us-east-2.amazonaws.com/petersonwsantos/cloudformation/vpc/vpc.yml" target="_blank"><img src="https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png"></a>
                         <p>us-east-1</p>
                     </td>
