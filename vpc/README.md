@@ -10,22 +10,17 @@ Infa
            <p>Creates an entire VPC from scratch for Lab or Permanent.</p>
            <h6>Create Details</h6>
            <ol>
-            <li>Single VPC</li>
-            <li> two Public Subnets</li>
-            <li> two Private Subnets</li>
-            <li>Public Route Table</li>
-            <li>Private Route Table</li>
-            <li>Internet Gateway</li>
-            <ul>
-              <li>Attached to the Public Route Table</li>
-            </ul>
-            <li>VPC Endpoint</li>
-            <li>Instance Access Security Group</li>
-            <ul>
-              <li>Instance to Instance Access</li>
-            </ul>
-                <li>Remote Access Security Group</li>
-           </ol>
+             <li>Single VPC</li>
+             <li> two Public Subnets</li>
+             <li> two Private Subnets</li>
+             <li>Public Route Table</li>
+             <li>Private Route Table</li>
+             <li>Internet Gateway</li>
+             <li>Attached to the Public Route Table</li>
+             <li>VPC Endpoint</li>
+             <li>Instance Access Security Group</li>
+             <li>Instance to Instance Access</li>
+             <li>Remote Access Security Group</li>
         </td>
         <td nowrap width="200" valign="top">
             <table>
@@ -45,7 +40,7 @@ Infa
                 </tr>
                 <tr>
                     <td>
-                        <a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-west-2&templateURL=https://s3.us-east-2.amazonaws.com/petersonwsantos/cloudformation/vpc/vpc.yml" target="_blank"><img src="https://s3.us-east-2.amazonaws.com/petersonwsantos/cloudformation/vpc/vpc-designer.png" width:100% alt="View in Designer"></a>
+                        <a href="https://console.aws.amazon.com/cloudformation/designer/home?region=us-east-1&templateURL=https://s3.us-east-2.amazonaws.com/petersonwsantos/cloudformation/vpc/vpc.yml" target="_blank"><img src="https://s3.us-east-2.amazonaws.com/petersonwsantos/cloudformation/vpc/vpc-designer.png" width:100% alt="View in Designer"></a>
                     </td>
                 </tr>
             </table>
